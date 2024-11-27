@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "916210158577",
+    "project_id": "guided-ppb11",
+    "storage_bucket": "guided-ppb11.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916210158577:android:34a1e47c675a4570d35250",
+        "android_client_info": {
+          "package_name": "com.example.guided_ppb11"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKBqlZL_r5S4pMuZI3p9LCxpYCnjG7ZPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
